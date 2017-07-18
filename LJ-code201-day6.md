@@ -7,3 +7,5 @@ Our brisk walk into learning Javascript has now turned into a full-speed sprint,
 We've starting learning objects, which is a whole new ball game. So far the easiest way for me to think of it is like making a person, and all of it's properties are the different variables that are unique to that person, but fall in a category other people would have. Like their height, eye color, hair color... Stuff like that, and the way they are used is a method.
 
 The hardest part so far with object is creating the methods you need inside the object and then applying the different results you get in more methods. Like a snowball affect, where the information you need is available through the previous method.
+
+Also, we're working more with git branches. Although convenient, it can be a pain in the ass if you forget a step. I guess it helps you pay attention to detail more...
